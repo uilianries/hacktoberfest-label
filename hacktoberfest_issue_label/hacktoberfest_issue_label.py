@@ -6,6 +6,8 @@ import os
 import json
 
 
+__version__ = "0.1.0"
+
 HACKTOBERFEST_LABEL = "Hacktoberfest"
 
 
